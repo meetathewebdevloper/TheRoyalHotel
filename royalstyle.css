@@ -1,0 +1,38 @@
+nav
+{
+display: flex;
+padding: 40px;
+margin-left: 35%;
+}
+h1
+{
+    padding-top: 70px;
+   font-size: 95px;
+    font-family: Monotype Corsiva;
+}
+b
+{
+    font-size: 30px;
+    font-family: Monotype Corsiva;
+    color: white;
+    background-color:black;
+}
+body
+{
+    background-image: url(hotelimages/img19.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:whitesmoke;
+}
+a:hover
+{
+    color:rgb(110, 18, 69);
+    text-decoration: none; 
+    background-color:whitesmoke;
+}
+a 
+{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
